@@ -1,0 +1,9 @@
+﻿  ErrorLogger.cpp
+  Source.cpp
+  StringConverter.cpp
+  Generating code
+  162 of 162 functions (100.0%) were compiled.
+    161 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DirectX11 Engine Basics.vcxproj -> C:\Dev\Basic3D\DirectX11 Engine Basics\x64\Release\DirectX11 Engine Basics.exe

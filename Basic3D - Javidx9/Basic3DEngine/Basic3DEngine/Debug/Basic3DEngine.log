@@ -1,0 +1,5 @@
+﻿  Basic3DEngine.cpp
+c:\dev\basic3d\basic3d\basic3dengine\basic3dengine\basic3dengine.cpp(167): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\dev\basic3d\basic3d\basic3dengine\basic3dengine\basic3dengine.cpp(166): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\dev\basic3d\basic3d\basic3dengine\basic3dengine\basic3dengine.cpp(165): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Basic3DEngine.vcxproj -> C:\Dev\Basic3D\Basic3D\Basic3DEngine\Debug\Basic3DEngine.exe
