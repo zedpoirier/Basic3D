@@ -1,4 +1,30 @@
-﻿  Graphics.cpp
+﻿  Engine.cpp
+  Graphics.cpp
+c:\dev\basic3d\directx11 engine basics - jpres\directx11 engine basics\graphics\graphics.cpp(177): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\dev\basic3d\directx11 engine basics - jpres\directx11 engine basics\graphics\graphics.cpp(178): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\memory(2538): warning C4267: 'initializing': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=UINT
+          ]
+  c:\dev\basic3d\directx11 engine basics - jpres\directx11 engine basics\graphics\vertexbuffer.h(48): note: see reference to function template instantiation 'std::unique_ptr<UINT,std::default_delete<_Ty>> std::make_unique<UINT,size_t,0>(size_t &&)' being compiled
+          with
+          [
+              _Ty=UINT
+          ]
+  c:\dev\basic3d\directx11 engine basics - jpres\directx11 engine basics\graphics\vertexbuffer.h(46): note: while compiling class template member function 'HRESULT VertexBuffer<Vertex>::Initialize(ID3D11Device *,T *,UINT)'
+          with
+          [
+              T=Vertex
+          ]
+  c:\dev\basic3d\directx11 engine basics - jpres\directx11 engine basics\graphics\graphics.cpp(256): note: see reference to function template instantiation 'HRESULT VertexBuffer<Vertex>::Initialize(ID3D11Device *,T *,UINT)' being compiled
+          with
+          [
+              T=Vertex
+          ]
+  c:\dev\basic3d\directx11 engine basics - jpres\directx11 engine basics\graphics\graphics.h(34): note: see reference to class template instantiation 'VertexBuffer<Vertex>' being compiled
+  RenderWindow.cpp
   Source.cpp
+  WindowContainer.cpp
   Generating Code...
-  DirectX11 Engine Basics.vcxproj -> C:\Dev\Basic3D\DirectX11 Engine Basics\x64\Debug\DirectX11 Engine Basics.exe
+  DirectX11 Engine Basics.vcxproj -> C:\Dev\Basic3D\DirectX11 Engine Basics - Jpres\x64\Debug\DirectX11 Engine Basics.exe
