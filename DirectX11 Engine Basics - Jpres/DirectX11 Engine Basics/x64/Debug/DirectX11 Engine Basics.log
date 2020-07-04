@@ -1,4 +1,4 @@
-﻿  Engine.cpp
+﻿  compilation object save succeeded; see C:\Dev\Basic3D\DirectX11 Engine Basics - Jpres\x64\Debug\vertexshader.cso
   Graphics.cpp
 c:\dev\basic3d\directx11 engine basics - jpres\directx11 engine basics\graphics\graphics.cpp(177): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
 c:\dev\basic3d\directx11 engine basics - jpres\directx11 engine basics\graphics\graphics.cpp(178): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
@@ -23,8 +23,4 @@ c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.1
               T=Vertex
           ]
   c:\dev\basic3d\directx11 engine basics - jpres\directx11 engine basics\graphics\graphics.h(34): note: see reference to class template instantiation 'VertexBuffer<Vertex>' being compiled
-  RenderWindow.cpp
-  Source.cpp
-  WindowContainer.cpp
-  Generating Code...
   DirectX11 Engine Basics.vcxproj -> C:\Dev\Basic3D\DirectX11 Engine Basics - Jpres\x64\Debug\DirectX11 Engine Basics.exe
